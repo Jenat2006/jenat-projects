@@ -1,3 +1,3 @@
 # jenat-projects
 this is my first git repository
-Author
+Author-Jenat Naj
